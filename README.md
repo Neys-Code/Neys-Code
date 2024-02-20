@@ -1,8 +1,3 @@
-
-
-<!--
-**Neys-Code/Neys-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Jana</h1>
 <h3 align="center">🌍 Geoinformatician by profession, adventure seeker by passion, and code wizard by choice.</h3>
 
